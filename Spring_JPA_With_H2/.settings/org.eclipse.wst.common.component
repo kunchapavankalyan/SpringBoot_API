@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Spring_JPA_With_H2">
-        <wb-resource deploy-path="/" source-path="/public"/>
-        <property name="context-root" value="Spring_JPA_With_H2"/>
-    </wb-module>
-</project-modules>
